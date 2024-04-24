@@ -19,7 +19,7 @@ Once the application is running, users can interact with the virtual tutor throu
 1.Start a Session: Click on the "Start Session" button to begin a learning session.
 2.Ask Questions: Use the chat interface to ask questions or seek explanations on topics.
 3.Complete Exercises: Complete exercises or quizzes provided by the virtual tutor to test understanding.
-# Contributing:
+Contributing:
 We welcome contributions from the community to enhance the virtual tutor project. To contribute, follow these steps:
 
 1.Fork the repository.
