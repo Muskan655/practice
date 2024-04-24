@@ -1,7 +1,7 @@
 # EvolveEd
 Welcome to our Virtual Tutor Project EvolveEd This project aims to develop an AI-powered virtual tutor using machine learning techniques. Whether you're a student seeking personalized learning experiences or an educator looking to enhance teaching methods, our virtual tutor is designed to assist you.
 
-Features:
+Features
 1.Personalized Learning: Utilizes machine learning algorithms to adapt to each learner's pace, style, and preferences.
 2.Interactive Sessions: Engages users through interactive sessions, quizzes, and exercises.
 3.Performance Tracking: Tracks user progress and provides insights to enhance learning outcomes.
